@@ -1,1 +1,1 @@
-# 🛒 Desenvolvimento e manutenção de lojas Shopify e projetos de e-commerce.
+# 🛒 Desenvolvimento e manutenção de projetos e-commerce.
