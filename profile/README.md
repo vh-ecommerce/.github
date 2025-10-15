@@ -1,12 +1,21 @@
-## Hi there 👋
+# 🛒 VH E-commerce
 
-<!--
+Espaço dedicado ao **desenvolvimento e manutenção de projetos de e-commerce**.
 
-**Here are some ideas to get you started:**
+Nossa missão é criar experiências digitais que combinam **desempenho, identidade visual e conversão**, ajudando marcas a crescer de forma estratégica e sustentável no ambiente online.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 💼 O que fazemos
+- Desenvolvimento e evolução de interfaces de loja virtual  
+- Integrações com sistemas e automações de processos  
+- Otimização de desempenho e experiência do usuário  
+- Suporte técnico e manutenção contínua de projetos digitais  
+
+---
+
+## ⚙️ Principais áreas de atuação
+🧩 Front-end e UX/UI  
+🔗 Integrações e APIs  
+📦 Gestão e infraestrutura de e-commerce  
+📊 Performance e conversão  
